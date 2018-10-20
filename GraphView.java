@@ -1,4 +1,3 @@
-package hw4AnotherVersion;
 
 import java.awt.Color;
 import java.awt.Component;
